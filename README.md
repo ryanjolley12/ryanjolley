@@ -1,4 +1,4 @@
-# Ryan Jolley: My Portfolio
+# Ryan Jolley Portfolio
 
 ## Preview
 
@@ -8,8 +8,11 @@
 
 ## Link to Application: 
 
+https://ryanjolley12.github.io/ryanjolley/
 
 ## Application Description
+
+This application serves as my personal and professional portfolio and showcases my current skills and projects as I work through an immersive coding course at George Washington University. By October 2021, I will be a certified Full Stack Developer.
 
 ## Technologies Used 
 
